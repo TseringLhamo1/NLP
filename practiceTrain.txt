@@ -1,4 +1,4 @@
-S,H,H,W,-
+S, H, H, W, -
 S, H, H, S, -
 O, H, H, W, +
 R, M, H, W, +
