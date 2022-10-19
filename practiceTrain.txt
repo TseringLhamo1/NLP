@@ -4,8 +4,8 @@ O, H, H, W, +
 R, M, H, W, +
 R, C, N, W, +
 R, C, N, S, -
-O, C, N, S, + 
-S, M, H, W, - 
+O, C, N, S, +
+S, M, H, W, -
 S, C, H, W, +
 R, M, N, Q, +
 S, M, N, S, +
