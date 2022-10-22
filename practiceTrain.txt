@@ -6,7 +6,7 @@ R, C, N, W, +
 R, C, N, S, -
 O, C, N, S, +
 S, M, H, W, -
-S, C, H, W, +
+S, C, N, W, +
 R, M, N, Q, +
 S, M, N, S, +
 O, M, H, S, +
