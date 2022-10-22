@@ -7,7 +7,7 @@ R, C, N, S, -
 O, C, N, S, +
 S, M, H, W, -
 S, C, N, W, +
-R, M, N, Q, +
+R, M, N, W, +
 S, M, N, S, +
 O, M, H, S, +
 O, H, N, W, +
